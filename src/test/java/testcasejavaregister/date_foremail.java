@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 
 
-public class TC_RF_004 {
+public class date_foremail {
 	
 	@Test
 	
